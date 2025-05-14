@@ -1,15 +1,9 @@
+# 🛡️ Chill Hack – CTF Writeup
 ![Author](https://img.shields.io/badge/Author-Jull3Hax0r-blue?style=flat-square&logo=github)
 [![TryHackMe Room](https://img.shields.io/badge/TryHackMe-Chill%20Hack-success?style=flat-square&logo=tryhackme)](https://tryhackme.com/room/chillhack)
 # TryHackMe-ChillHack
 WriteUp for CTF "ChillHack" at TryHackMe
-# 🛡️ Chill Hack – CTF Writeup
 
----
-
-## 🛰️ Target
-```
-IP: <IP>
-```
 
 ---
 
